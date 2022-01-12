@@ -1,3 +1,5 @@
+# Olá! eu sou o João Pedro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 <p align="center">
   <a href="https://github.com/joaocarvalhop">
     <img
@@ -13,9 +15,6 @@
     />
   </a>
 </p>
-
-
-<h1> Olá! eu sou o João Pedro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 ## Sobre mim  
 <div>
