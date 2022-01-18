@@ -1,4 +1,4 @@
-# Olá! eu sou o João Pedro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# What's up! eu sou o João Pedro 🤘
 
 <p align="center">
   <a href="https://github.com/joaocarvalhop">
