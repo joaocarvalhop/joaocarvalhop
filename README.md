@@ -19,7 +19,7 @@
 <div>
   <img align="center"/>
   <p> - 💭 Venho com o intuito de desenvolver soluções e agregar valor na vida das pessoas, ajudando a construir um mundo melhor. </p>
-  <p> - 👨‍🎓 Estudante de Sistemas de Informação, atualmente estou cursando o 5° semestre. </p>
+  <p> - 👨‍🎓 Estudante de Sistemas de Informação na Universidade Paulista - UNIP, atualmente estou cursando o 5° semestre. </p>
   <p> - 🎯 Interesse: Java, Spring Boot, JavaScript, Angular, React, HTML e CSS. </p>
 </div>
  
