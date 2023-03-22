@@ -20,5 +20,5 @@
   <img align="center"/>
   <p> 💭 I come with the intention of developing solutions and adding value to people's lives, helping to build a better world. </p>
   <p> 👨‍🎓 Studying Systems Analysis and Development at University Anhembi Morumbi </p>
-  <p> 🎯 Test Automation, Cypress, Selenium, Robot and Python.. </p>
+  <p> 🎯 Test Automation, Cypress, Selenium, Robot and Python... </p>
 </div>
